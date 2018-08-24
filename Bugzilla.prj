@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Bugzilla</description>
+   <name>Bugzilla</name>
+   <tag></tag>
+   <UUID>5fb2a497-1f26-41df-aea7-e5ee315cb7d3</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

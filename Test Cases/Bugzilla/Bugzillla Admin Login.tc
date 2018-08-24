@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bugzilla Admin Login</description>
+   <name>Bugzillla Admin Login</name>
+   <tag>Functional</tag>
+   <comment></comment>
+   <testCaseGuid>dbac94ca-6f49-4259-8400-0669d84db299</testCaseGuid>
+</TestCaseEntity>
